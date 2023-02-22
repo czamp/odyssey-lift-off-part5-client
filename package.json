@@ -50,7 +50,7 @@
   "engines":{
     "npm":"8.5.0"
    },
-  "main": "src/index.js",
+  "main": "build/index.html",
   "author": "Raphael Terrier @R4ph-t",
   "license": "MIT"
 }
